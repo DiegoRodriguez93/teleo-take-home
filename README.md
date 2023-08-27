@@ -1,4 +1,7 @@
 # Teleo App - Screenshot Feature
+
+![screenshot](https://imgtr.ee/image/v8eVh)
+
 ## Context
 Teleo Take-Home is built using Nextjs, integrated with Apollo GraphQL engine over a PostgreSQL database. Activities span various HTML elements like canvases, text inputs, and video elements.
 
