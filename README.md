@@ -36,7 +36,7 @@ Teleo Take-Home is built using Nextjs, integrated with Apollo GraphQL engine ove
 
 ### Part 2
 
-The React component, as implemented above, showcases screenshots saved for a particular kid. The data is mocked for demonstration. Edge cases include handling large images, non-image data, and missing data. In the v0 release, handling missing data would be the priority.
+The React component, as implemented above, showcases screenshots saved for a particular kid. The data is mocked for demonstration. Edge cases include handling large images, non-image data, and missing data, wrong kid id. In the v0 release, handling missing data would be the priority.
 
 ---
 
