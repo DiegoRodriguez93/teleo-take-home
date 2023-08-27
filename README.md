@@ -43,8 +43,8 @@ The React component, as implemented above, showcases screenshots saved for a par
 ## Project Setup Guide
 
 ```bash
-git clone [REPOSITORY_LINK]
-cd [REPOSITORY_NAME]
+git https://github.com/DiegoRodriguez93/teleo-take-home
+cd teleo-take-home
 docker compose up
 yarn migrate
 yarn seed
